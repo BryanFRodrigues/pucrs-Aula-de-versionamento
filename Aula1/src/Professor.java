@@ -29,7 +29,8 @@ public class Professor {
         @Override
         public String toString(){
             return "Professor: " + nome + ", " + anosExperiencia + " anos de experiência";
-        }
+        };
         //Comentario inserido na branch main
+        //Alteração na Branch:"Alteracao"
     }
 
