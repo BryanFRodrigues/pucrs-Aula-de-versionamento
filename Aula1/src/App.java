@@ -11,4 +11,5 @@ public class App {
         System.out.println("Classificação: " + p.classificarProfessor());
     }
     //Alteração no repositorio remoto para utilização do comando: "Git pull"
+    //Alteração no repositorio local para utilização do comando: "Git add . "
 }
